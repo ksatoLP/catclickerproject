@@ -1,0 +1,25 @@
+
+#cat1pic {
+	width: 350px;
+	height: 350px;
+}
+
+#cat2pic{
+	width: 350px;
+	height: 350px;	
+}
+
+#cat3pic{
+	width: 350px;
+	height: 350px;	
+}
+
+h2 {
+	border:0;
+	font-size:1.3em;
+	font-family:Arial, sans-serif;
+	color:#aaa;
+	border:solid 5px #ccc;
+	margin:0 0 20px;
+	width:300px;
+}
